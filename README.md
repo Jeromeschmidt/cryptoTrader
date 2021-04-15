@@ -1,8 +1,4 @@
-<p align="center">
 <h1>Reinforcement Learning Crypto Trading Bot</h1>
-<br>
-<br>
-
 
 ## Description:
 Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API. Can be expanded to use batch training and GANs to create synthetic training data.
