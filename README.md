@@ -5,13 +5,14 @@
 
 
 ## Description:
-1. Goals
+Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API. Can be expanded to use batch training and GANs to create synthetic training data.
 
 ## Goals:
 1. Create a crypto trading system using deep reinforcement learning
 2. Learn how to train in batches to train when new data is added without having to retrain the whole system
 
 ## MVP:
+Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API.
 
 ## Stretch Goals:
 - Use a GAN to create synthetic data to train with
@@ -26,6 +27,7 @@
 
 
 ## Research Summary:
+
 
 
 ## Data:
