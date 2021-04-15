@@ -27,8 +27,18 @@ Crypto trading bot that uses Deep Reinforcement Learning to make and act on pred
 
 
 ## Research Summary:
-
-
+- This team built a Ensemble Deep Reinforcement Learning model for trading equities. Will be a great resource for guidance in implementing models and backtesting architecture.
+    - https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
+- Guide for understanding DRL in a manner that makes it easy to explain in my documentation.
+    - https://towardsdatascience.com/drl-01-a-gentle-introduction-to-deep-reinforcement-learning-405b79866bf4
+- Good guide to general structure of a DRL crypto trading agent
+    - https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
+- Good guide to creating synthetic data with GANs
+    - https://towardsdatascience.com/synthetic-time-series-data-a-gan-approach-869a984f2239
+- Good point of reference when looking to deploy model to run with live trading
+    - https://maharshi-yeluri.medium.com/a-guide-to-production-level-deep-learning-784de4f34da
+- Good resource for sure model predictions to construct optimal portfolio
+    - https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-portfolio-allocation-9b417660c7cd
 
 ## Data:
 - Coinbase API for current prices
