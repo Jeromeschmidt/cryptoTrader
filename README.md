@@ -1,5 +1,7 @@
 <h1>Reinforcement Learning Crypto Trading Bot</h1>
 
+Commits note: Previous project work was done on Quantconnect which autosaves and does not use commits. The colab notebook transferred core work from Quantconnect to a notebook to have more control over data input.
+
 ## Description:
 Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API. Can be expanded to use batch training and GANs to create synthetic training data.
 
