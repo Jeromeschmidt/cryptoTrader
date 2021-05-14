@@ -45,3 +45,6 @@ Crypto trading bot that uses Deep Reinforcement Learning to make and act on pred
 - Coinbase API for current prices
     - https://docs.pro.coinbase.com/
     - https://github.com/danpaquin/coinbasepro-python
+
+## Notes:
+Directions to run colab notebook are included the the top of the colab notebook
