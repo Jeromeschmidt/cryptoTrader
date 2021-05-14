@@ -3,14 +3,14 @@
 Commits note: Previous project work was done on Quantconnect which autosaves and does not use commits. The colab notebook transferred core work from Quantconnect to a notebook to have more control over data input.
 
 ## Description:
-Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API. Can be expanded to use batch training and GANs to create synthetic training data.
+Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Polygon API. Can be expanded to use batch training and GANs to create synthetic training data.
 
 ## Goals:
 1. Create a crypto trading system using deep reinforcement learning
 2. Learn how to train in batches to train when new data is added without having to retrain the whole system
 
 ## MVP:
-Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Coinbase Pro API.
+Crypto trading bot that uses Deep Reinforcement Learning to make and act on predictions using the Polygon API.
 
 ## Stretch Goals:
 - Use a GAN to create synthetic data to train with
@@ -19,9 +19,10 @@ Crypto trading bot that uses Deep Reinforcement Learning to make and act on pred
 - Week 1: Finish Proposal and gather and prepare data
 - Week 2: Implement training/backtesting system
 - Week 3: Implement Deep Reinforcement Learning Models
-- Week 4: Implement batch training to better live trading models
-- Week 5: Test models on live training data
-- Week 6: Implement GANs to create synthetic data to train with to improve model performance
+- Week 4: Tune model paramaters
+- Week 5: Implement batch training to better live trading models
+- Week 6: Test models on live training data
+- Week 7: Implement GANs to create synthetic data to train with to improve model performance
 
 
 ## Research Summary:
@@ -39,8 +40,8 @@ Crypto trading bot that uses Deep Reinforcement Learning to make and act on pred
     - https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-portfolio-allocation-9b417660c7cd
 
 ## Data:
+- Polygon.io for historical prices
+    - https://polygon.io/crypto
 - Coinbase API for current prices
     - https://docs.pro.coinbase.com/
     - https://github.com/danpaquin/coinbasepro-python
-- Polygon.io for historical prices
-    - https://polygon.io/crypto
